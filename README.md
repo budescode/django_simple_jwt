@@ -9,10 +9,10 @@ Clone the code from github
 ```bash
 git clone https://github.com/budescode/django_simple_jwt.git
 ```
-Navigate to django_jwt folder
+Navigate to django_simple_jwt folder
 
 ```bash
-cd django_jwt
+cd django_simple_jwt
 ```
 
 Install the requirements
